@@ -1,5 +1,9 @@
 # Sentiment Analysis App Review (Shopee Singapore)
 
+<div style="text-align: center;">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*8ZN0Y93fGuq-hoYHCVuutw.png" alt="Deskripsi Gambar" style="max-width: 100%; height: auto;">
+</div>
+
 ## Latar Belakang:
 Shopee adalah salah satu platform e-commerce terkemuka di Asia Tenggara, termasuk di Singapura. Aplikasi Shopee Singapore mendapatkan berbagai ulasan dari pengguna yang mencerminkan kepuasan dan ketidakpuasan mereka terhadap layanan yang diberikan. Memahami sentimen dari ulasan pengguna sangat penting bagi Shopee untuk meningkatkan kualitas layanan, mengidentifikasi masalah yang ada, serta memperbaiki pengalaman pengguna.
 
