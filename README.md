@@ -72,8 +72,8 @@ Direkomendasikan untuk dijalankan di Google Colab
     - Validasi akurasi   : > 97 %
 - Model deep learning yang terbaik:
     - Model              : BILSTM
-    - Akurasi            : > 99 %
-    - Validasi akurasi   : > 99 %
+    - Akurasi            : 99.83 %
+    - Validasi akurasi   : 99.66 %
 
    Model tersebut dapat digunakan untuk memprediksi review dimasa mendatang.
 - Aplikasi streamlit mampu memprediksi review dari inputan user
