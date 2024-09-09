@@ -1,10 +1,15 @@
 ![created](https://img.shields.io/badge/created-28/07/2024-blue)
 [![Open Scraping](https://img.shields.io/badge/Open_Scraping!-blue?logo=jupyter)](/sentiment-analysis/scraping.html)
 [![Open Notebook](https://img.shields.io/badge/Open_Notebook!-blue?logo=jupyter)](/sentiment-analysis/notebook.html)
+<a href="https://sentiment-analysis-shopee.streamlit.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Open_Prototype!-blue?logo=railway" alt="Prototype">
+</a>
 <a href="https://www.linkedin.com/in/maulana-kavaldo/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
 </a>
-
+<a href="https://www.dicoding.com/users/mkavaldo/academies" target="_blank">
+  <img src="https://img.shields.io/badge/Dicoding_Profile-blue?logo=browser" alt="Dicoding Profile">
+</a>
 ---
 
 # Sentiment Analysis App Review (Shopee Singapore)
